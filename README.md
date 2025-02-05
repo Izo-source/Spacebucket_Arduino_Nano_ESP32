@@ -6,6 +6,6 @@ display for convinience and maybe an automation water irigation system and fan c
 Since I'm a noob in coding, this is a learning project, help is welcome.
 
 Components:
-Board: Arduino Nano ESP32 
-Display: Waveshare 2.23 Inch OLED HAT (SSD1305)
-Soil sensor: BerryBase Capacitive Soil Moisture Sensor V2.0.0
+// Board: Arduino Nano ESP32 
+// Display: Waveshare 2.23 Inch OLED HAT (SSD1305)
+// Soil sensor: BerryBase Capacitive Soil Moisture Sensor V2.0.0
